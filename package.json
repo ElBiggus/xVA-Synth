@@ -12,6 +12,7 @@
   "repository": "https://github.com/DanRuta/xVA-Synth",
   "author": "DanRuta",
   "devDependencies": {
+    "@electron-forge/cli": "^7.11.1",
     "electron": "19.0.0",
     "electron-packager": "^17.1.2"
   },
@@ -21,6 +22,7 @@
     "fs-extra": "^9.1.0",
     "node-fetch": "^2.1.2",
     "node-nvidia-smi": "^1.0.0",
+    "rimraf": "^6.1.2",
     "unzipper": "^0.10.11",
     "zip-dir": "^2.0.0"
   }
